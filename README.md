@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Spring boot, Design Patterns, DevOps](Spring boot, Design Patterns, DevOps)
 
-- 💬 Ask me about **Spring boot, DevOps**
+- 💬 Ask me about **Spring boot, DevOps, WSO2**
 
 - 📫 How to reach me **madalinealbright2@gmail.com**
 
