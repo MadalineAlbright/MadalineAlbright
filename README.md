@@ -119,7 +119,7 @@
 
 <div align='center'>
 
-## <b>"Simplicity is the soul of efficiency"✨</b>
+## <b>"Simplicity is the soul of efficiency ~ Austin Freeman"✨</b>
 
 </div>
 <br>
