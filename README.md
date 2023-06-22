@@ -24,7 +24,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode]([https://maddie.hashnode.dev/])
+- 📝 I regularly write articles on [Hashnode](https://maddie.hashnode.dev/)
 
 - 💬 Ask me about **AWS, spring boot, android, nodejs, mongoDB, azure-pipelines**
 
