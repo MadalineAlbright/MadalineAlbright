@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Madaline Albright </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Howdy..&hearts;++;Self+taught+developer,;IT+Graduate,;Integration+Expert,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..;++;Self+taught+developer,;IT+Graduate,;Integration+Expert,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 <br>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, Microservices, WSO2, MuleSoft**
+- 🔭 I’m currently working on **Azure, Microservices, Java, MuleSoft**
 
 - 🌱 I’m currently learning **design patterns and software architecture for Scalable Applications.**
 
@@ -28,7 +28,8 @@
 
 - 💬 Ask me about **AWS, spring boot,MuleSoft, android, nodejs, mongoDB, azure-pipelines**
 
-- 📫 Feel free to reach me out **omollomadaline@gmail.com**
+- 🖥️ Portfolio: maddie-dev.vercel.app
+  
 <!--Intro end-->
 
 
